@@ -27,6 +27,17 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"background": {
+			"backgroundImage": {
+				"id": 21,
+				"source": "file",
+				"title": "colin-watts-EPcaJRJm7YA-unsplash-2",
+				"url": "http://localhost:8888/Karan-Davinder-finalproject/wp-content/uploads/2024/11/colin-watts-EPcaJRJm7YA-unsplash-2.jpg"
+			},
+			"backgroundPosition": "50% 0",
+			"backgroundSize": "auto"
+		},
+		"css": "body {\n    background-size: cover;\n    background-repeat: no-repeat;\n    background-attachment: fixed;\n}",
 		"elements": {
 			"h2": {
 				"typography": {
