@@ -30,9 +30,9 @@
           "name": "Dark Gray"
         },
         {
-          "slug": "white",
-          "color": "#FFFFFF",
-          "name": "White"
+          "slug": "baby-pink",
+          "color": "#e49ea9",
+          "name": "baby-pink"
         },
         {
           "slug": "crimson-hover",
@@ -40,9 +40,9 @@
           "name": "Crimson Hover"
         },
         {
-          "slug": "black",
-          "color": "#000000",
-          "name": "Black"
+          "slug": "mehroon",
+          "color": "#571822",
+          "name": "mehroon"
         }
       ]
     },
