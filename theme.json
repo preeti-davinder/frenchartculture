@@ -50,7 +50,20 @@
 			"name": "black"
 		  }
       ],
-	  "defaultPalette": false
+	  "defaultPalette": false,
+	  "gradients": [
+        {
+          "slug": "crimson-to-black",
+          "gradient": "linear-gradient(45deg, #DC143C, #000000)",
+          "name": "Crimson to Black"
+        },
+        {
+          "slug": "gray-to-white",
+          "gradient": "linear-gradient(90deg, #171717, #FFFFFF)",
+          "name": "Gray to White"
+        }
+      ],
+      "defaultGradients": false
     },
     "useRootPaddingAwareAlignments": true
   },
