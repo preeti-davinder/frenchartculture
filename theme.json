@@ -43,8 +43,14 @@
           "slug": "mehroon",
           "color": "#571822",
           "name": "mehroon"
-        }
-      ]
+        },
+		{
+			"slug": "black",
+			"color": "#000000",
+			"name": "black"
+		  }
+      ],
+	  "defaultPalette": false
     },
     "useRootPaddingAwareAlignments": true
   },
